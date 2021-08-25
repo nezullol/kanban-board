@@ -1,0 +1,4 @@
+TODO:
+    change the newcolumn function to insert a div into the render column component
+    do something similar with the card maker component
+    get cards to render under columns
