@@ -8,7 +8,7 @@ export default class Boardcolumn extends Component {
 		const cardmaker = <div>Make NEW Card</div>;
 		const makecolumn = <div> Make New COLUMN </div>;
 		return (
-			<div className='board-columns'>
+			<div className='board-column'>
 				<Handlenewcolumn makecolumn={makecolumn} />
 				<Cardmaker cardmaker={cardmaker} />
 				<Rendercolumn />
