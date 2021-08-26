@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Rendercolumn() {
+export default function Delete() {
 	React.useEffect(() => {
 		window.addEventListener("DOMContentLoaded", (event) => {
 			[...document.querySelectorAll(".delete-button")].forEach((el) =>

@@ -1,2 +1,0 @@
-TODO:
-Change the append function(s) to take the value of input and spit out a column name and a card name
